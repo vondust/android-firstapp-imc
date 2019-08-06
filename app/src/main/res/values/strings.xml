@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="label_titulo">Calculadora IMC</string>
+    <string name="label_peso">Peso</string>
+    <string name="hint_peso">Ex.: 75,5 kg</string>
+    <string name="label_altura">Altura</string>
+    <string name="hint_altura">Ex.: 1,75 m</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="button_calcular">Calcular</string>
+    <string name="button_limpar">Limpar</string>
+    <string name="label_abaixo_peso">Abaixo do Peso</string>
+
+    <!-- spinner -->
+    <string name="hint_sexos">Selecione o sexo</string>
+    <string name="label_feminino">Feminino</string>
+    <string name="label_masculino">Masculino</string>
+
+    <!-- resultado view -->
+    <string name="label_autor">Desenvoldido por Bruno</string>
+</resources>
